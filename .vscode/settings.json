@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5bbf0da0-b9b9-4071-b786-6337d0ce2996/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ankibata-screen-awake",
+    "appService.deploySubpath": "."
+}
