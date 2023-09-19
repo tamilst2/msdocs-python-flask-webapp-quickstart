@@ -1,8 +1,7 @@
-import os
 from flask import Flask, render_template
 import pyautogui
 import threading
-
+ 
 app = Flask(__name__)
 
 # Set the interval (in seconds) at which to move the mouse cursor
